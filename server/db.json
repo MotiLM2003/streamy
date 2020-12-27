@@ -1,0 +1,43 @@
+{
+  "streams": [
+    {
+      "title": "sdsd4",
+      "description": "sdsd4",
+      "id": 1
+    },
+    {
+      "title": "121312",
+      "description": "2312",
+      "id": 2
+    },
+    {
+      "title": "2",
+      "description": "4",
+      "userId": null,
+      "id": 3
+    },
+    {
+      "title": "2213123",
+      "description": "2213213",
+      "userId": "116243451848016372393",
+      "id": 5
+    },
+    {
+      "title": "moti elmakies",
+      "description": "the first",
+      "id": 7
+    },
+    {
+      "title": "22312",
+      "description": "2",
+      "userId": "116243451848016372393",
+      "id": 10
+    },
+    {
+      "title": "ffff",
+      "description": "d33333f",
+      "userId": "116243451848016372393",
+      "id": 12
+    }
+  ]
+}
